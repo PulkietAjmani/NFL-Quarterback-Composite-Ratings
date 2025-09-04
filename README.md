@@ -4,7 +4,7 @@ This repo/script builds a composite rating for NFL QBs by combining a mixed-effe
 
 Author: Pulkiet Ajmani
 
-Data: nflverse (play-by-play + rosters) + your manual inputs
+Data: nflverse (play-by-play + rosters) + manual inputs
 
 Season: 2024 (regular season)
 
